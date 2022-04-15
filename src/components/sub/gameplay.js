@@ -52,7 +52,7 @@ const GamePlay = () => {
                 
                     <motion.p className="message"
                         animate={{
-                            scale: [1,2,1],
+                            scale: [1,1.5,1],
                         }}>
                         {teases[(Math.floor(teases.length*Math.random()))]}
                     </motion.p>

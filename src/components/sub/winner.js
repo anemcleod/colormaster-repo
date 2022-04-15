@@ -14,7 +14,7 @@ const Winner = () => {
             <motion.h1 
                 className="maintitle"
                 animate={{
-                    scale: [1,2,1],
+                    scale: [1,1.5,1],
                 }}>
                 winner winner!
             </motion.h1>
